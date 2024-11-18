@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Oleh Sukanets\\source\\repos\\lab_10.3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFDE4BD-112F-4CDE-8D98-77490034A64C}|UnitTest1\\UnitTest1.vcxproj|C:\\Users\\Oleh Sukanets\\source\\repos\\lab_10.3\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0BFDE4BD-112F-4CDE-8D98-77490034A64C}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055329C1-D8FC-4F6E-9927-C3A0BAC26592}|lab_10.3\\lab_10.3.vcxproj|C:\\Users\\Oleh Sukanets\\source\\repos\\lab_10.3\\lab_10.3\\10.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{055329C1-D8FC-4F6E-9927-C3A0BAC26592}|lab_10.3\\lab_10.3.vcxproj|solutionrelative:lab_10.3\\10.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "C:\\Users\\Oleh Sukanets\\source\\repos\\lab_10.3\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "C:\\Users\\Oleh Sukanets\\source\\repos\\lab_10.3\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-18T16:50:48.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "10.3.cpp",
+              "DocumentMoniker": "C:\\Users\\Oleh Sukanets\\source\\repos\\lab_10.3\\lab_10.3\\10.3.cpp",
+              "RelativeDocumentMoniker": "lab_10.3\\10.3.cpp",
+              "ToolTip": "C:\\Users\\Oleh Sukanets\\source\\repos\\lab_10.3\\lab_10.3\\10.3.cpp",
+              "RelativeToolTip": "lab_10.3\\10.3.cpp",
+              "ViewState": "AgIAAFUAAADgzMzMzIwswHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-18T16:49:15.982Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
